@@ -1,0 +1,649 @@
+Metric,Value,Test_Folder,Model_Format,Model_Name
+Total time,0.94 sec,test_2_2 seconds_15fps,Pt,yolov8n-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,Pt,yolov8n-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,Pt,yolov8n-seg
+Average Frame Processing Time,0.0312 sec,test_2_2 seconds_15fps,Pt,yolov8n-seg
+Target Class Score,34.65%,test_2_2 seconds_15fps,Pt,yolov8n-seg
+Processing FPS,32.01 fps,test_2_2 seconds_15fps,Pt,yolov8n-seg
+Total time,1.81 sec,test_2_2 seconds_15fps,Pt,yolo11m-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,Pt,yolo11m-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,Pt,yolo11m-seg
+Average Frame Processing Time,0.0602 sec,test_2_2 seconds_15fps,Pt,yolo11m-seg
+Target Class Score,36.25%,test_2_2 seconds_15fps,Pt,yolo11m-seg
+Processing FPS,16.60 fps,test_2_2 seconds_15fps,Pt,yolo11m-seg
+Total time,1.91 sec,test_2_2 seconds_15fps,Pt,yolov8m-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,Pt,yolov8m-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,Pt,yolov8m-seg
+Average Frame Processing Time,0.0637 sec,test_2_2 seconds_15fps,Pt,yolov8m-seg
+Target Class Score,36.56%,test_2_2 seconds_15fps,Pt,yolov8m-seg
+Processing FPS,15.71 fps,test_2_2 seconds_15fps,Pt,yolov8m-seg
+Total time,1.35 sec,test_2_2 seconds_15fps,Pt,yolo11s-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,Pt,yolo11s-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,Pt,yolo11s-seg
+Average Frame Processing Time,0.0449 sec,test_2_2 seconds_15fps,Pt,yolo11s-seg
+Target Class Score,35.83%,test_2_2 seconds_15fps,Pt,yolo11s-seg
+Processing FPS,22.25 fps,test_2_2 seconds_15fps,Pt,yolo11s-seg
+Total time,1.24 sec,test_2_2 seconds_15fps,Pt,yolov8s-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,Pt,yolov8s-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,Pt,yolov8s-seg
+Average Frame Processing Time,0.0414 sec,test_2_2 seconds_15fps,Pt,yolov8s-seg
+Target Class Score,42.17%,test_2_2 seconds_15fps,Pt,yolov8s-seg
+Processing FPS,24.17 fps,test_2_2 seconds_15fps,Pt,yolov8s-seg
+Total time,1.02 sec,test_2_2 seconds_15fps,Pt,yolo11n-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,Pt,yolo11n-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,Pt,yolo11n-seg
+Average Frame Processing Time,0.0339 sec,test_2_2 seconds_15fps,Pt,yolo11n-seg
+Target Class Score,29.97%,test_2_2 seconds_15fps,Pt,yolo11n-seg
+Processing FPS,29.51 fps,test_2_2 seconds_15fps,Pt,yolo11n-seg
+Total time,0.82 sec,test_2_2 seconds_15fps,TensorRT,yolov8n-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,TensorRT,yolov8n-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,TensorRT,yolov8n-seg
+Average Frame Processing Time,0.0272 sec,test_2_2 seconds_15fps,TensorRT,yolov8n-seg
+Target Class Score,33.75%,test_2_2 seconds_15fps,TensorRT,yolov8n-seg
+Processing FPS,36.71 fps,test_2_2 seconds_15fps,TensorRT,yolov8n-seg
+Total time,1.54 sec,test_2_2 seconds_15fps,TensorRT,yolo11m-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,TensorRT,yolo11m-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,TensorRT,yolo11m-seg
+Average Frame Processing Time,0.0513 sec,test_2_2 seconds_15fps,TensorRT,yolo11m-seg
+Target Class Score,35.62%,test_2_2 seconds_15fps,TensorRT,yolo11m-seg
+Processing FPS,19.51 fps,test_2_2 seconds_15fps,TensorRT,yolo11m-seg
+Total time,1.52 sec,test_2_2 seconds_15fps,TensorRT,yolov8m-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,TensorRT,yolov8m-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,TensorRT,yolov8m-seg
+Average Frame Processing Time,0.0506 sec,test_2_2 seconds_15fps,TensorRT,yolov8m-seg
+Target Class Score,37.96%,test_2_2 seconds_15fps,TensorRT,yolov8m-seg
+Processing FPS,19.77 fps,test_2_2 seconds_15fps,TensorRT,yolov8m-seg
+Total time,1.06 sec,test_2_2 seconds_15fps,TensorRT,yolo11s-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,TensorRT,yolo11s-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,TensorRT,yolo11s-seg
+Average Frame Processing Time,0.0354 sec,test_2_2 seconds_15fps,TensorRT,yolo11s-seg
+Target Class Score,37.58%,test_2_2 seconds_15fps,TensorRT,yolo11s-seg
+Processing FPS,28.27 fps,test_2_2 seconds_15fps,TensorRT,yolo11s-seg
+Total time,1.11 sec,test_2_2 seconds_15fps,TensorRT,yolov8s-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,TensorRT,yolov8s-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,TensorRT,yolov8s-seg
+Average Frame Processing Time,0.0369 sec,test_2_2 seconds_15fps,TensorRT,yolov8s-seg
+Target Class Score,41.56%,test_2_2 seconds_15fps,TensorRT,yolov8s-seg
+Processing FPS,27.09 fps,test_2_2 seconds_15fps,TensorRT,yolov8s-seg
+Total time,0.84 sec,test_2_2 seconds_15fps,TensorRT,yolo11n-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,TensorRT,yolo11n-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,TensorRT,yolo11n-seg
+Average Frame Processing Time,0.0280 sec,test_2_2 seconds_15fps,TensorRT,yolo11n-seg
+Target Class Score,34.12%,test_2_2 seconds_15fps,TensorRT,yolo11n-seg
+Processing FPS,35.65 fps,test_2_2 seconds_15fps,TensorRT,yolo11n-seg
+Total time,2.03 sec,test_2_2 seconds_15fps,onnx,yolov8n-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,onnx,yolov8n-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,onnx,yolov8n-seg
+Average Frame Processing Time,0.0676 sec,test_2_2 seconds_15fps,onnx,yolov8n-seg
+Target Class Score,34.02%,test_2_2 seconds_15fps,onnx,yolov8n-seg
+Processing FPS,14.78 fps,test_2_2 seconds_15fps,onnx,yolov8n-seg
+Total time,6.21 sec,test_2_2 seconds_15fps,onnx,yolo11m-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,onnx,yolo11m-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,onnx,yolo11m-seg
+Average Frame Processing Time,0.2070 sec,test_2_2 seconds_15fps,onnx,yolo11m-seg
+Target Class Score,35.69%,test_2_2 seconds_15fps,onnx,yolo11m-seg
+Processing FPS,4.83 fps,test_2_2 seconds_15fps,onnx,yolo11m-seg
+Total time,5.14 sec,test_2_2 seconds_15fps,onnx,yolov8m-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,onnx,yolov8m-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,onnx,yolov8m-seg
+Average Frame Processing Time,0.1713 sec,test_2_2 seconds_15fps,onnx,yolov8m-seg
+Target Class Score,37.73%,test_2_2 seconds_15fps,onnx,yolov8m-seg
+Processing FPS,5.84 fps,test_2_2 seconds_15fps,onnx,yolov8m-seg
+Total time,3.93 sec,test_2_2 seconds_15fps,onnx,yolo11s-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,onnx,yolo11s-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,onnx,yolo11s-seg
+Average Frame Processing Time,0.1310 sec,test_2_2 seconds_15fps,onnx,yolo11s-seg
+Target Class Score,37.70%,test_2_2 seconds_15fps,onnx,yolo11s-seg
+Processing FPS,7.64 fps,test_2_2 seconds_15fps,onnx,yolo11s-seg
+Total time,4.67 sec,test_2_2 seconds_15fps,onnx,yolov8s-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,onnx,yolov8s-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,onnx,yolov8s-seg
+Average Frame Processing Time,0.1556 sec,test_2_2 seconds_15fps,onnx,yolov8s-seg
+Target Class Score,41.58%,test_2_2 seconds_15fps,onnx,yolov8s-seg
+Processing FPS,6.43 fps,test_2_2 seconds_15fps,onnx,yolov8s-seg
+Total time,2.28 sec,test_2_2 seconds_15fps,onnx,yolo11n-seg
+Video FPS,15 fps,test_2_2 seconds_15fps,onnx,yolo11n-seg
+Video Duration,2.00 sec,test_2_2 seconds_15fps,onnx,yolo11n-seg
+Average Frame Processing Time,0.0761 sec,test_2_2 seconds_15fps,onnx,yolo11n-seg
+Target Class Score,33.93%,test_2_2 seconds_15fps,onnx,yolo11n-seg
+Processing FPS,13.14 fps,test_2_2 seconds_15fps,onnx,yolo11n-seg
+Total time,0.43 sec,test_3_1 seconds_15fps,Pt,yolov8n-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,Pt,yolov8n-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,Pt,yolov8n-seg
+Average Frame Processing Time,0.0283 sec,test_3_1 seconds_15fps,Pt,yolov8n-seg
+Target Class Score,36.29%,test_3_1 seconds_15fps,Pt,yolov8n-seg
+Processing FPS,35.29 fps,test_3_1 seconds_15fps,Pt,yolov8n-seg
+Total time,0.95 sec,test_3_1 seconds_15fps,Pt,yolo11m-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,Pt,yolo11m-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,Pt,yolo11m-seg
+Average Frame Processing Time,0.0633 sec,test_3_1 seconds_15fps,Pt,yolo11m-seg
+Target Class Score,50.21%,test_3_1 seconds_15fps,Pt,yolo11m-seg
+Processing FPS,15.80 fps,test_3_1 seconds_15fps,Pt,yolo11m-seg
+Total time,0.95 sec,test_3_1 seconds_15fps,Pt,yolov8m-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,Pt,yolov8m-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,Pt,yolov8m-seg
+Average Frame Processing Time,0.0632 sec,test_3_1 seconds_15fps,Pt,yolov8m-seg
+Target Class Score,49.98%,test_3_1 seconds_15fps,Pt,yolov8m-seg
+Processing FPS,15.82 fps,test_3_1 seconds_15fps,Pt,yolov8m-seg
+Total time,0.62 sec,test_3_1 seconds_15fps,Pt,yolo11s-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,Pt,yolo11s-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,Pt,yolo11s-seg
+Average Frame Processing Time,0.0412 sec,test_3_1 seconds_15fps,Pt,yolo11s-seg
+Target Class Score,46.37%,test_3_1 seconds_15fps,Pt,yolo11s-seg
+Processing FPS,24.28 fps,test_3_1 seconds_15fps,Pt,yolo11s-seg
+Total time,0.55 sec,test_3_1 seconds_15fps,Pt,yolov8s-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,Pt,yolov8s-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,Pt,yolov8s-seg
+Average Frame Processing Time,0.0370 sec,test_3_1 seconds_15fps,Pt,yolov8s-seg
+Target Class Score,47.53%,test_3_1 seconds_15fps,Pt,yolov8s-seg
+Processing FPS,27.03 fps,test_3_1 seconds_15fps,Pt,yolov8s-seg
+Total time,0.49 sec,test_3_1 seconds_15fps,Pt,yolo11n-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,Pt,yolo11n-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,Pt,yolo11n-seg
+Average Frame Processing Time,0.0327 sec,test_3_1 seconds_15fps,Pt,yolo11n-seg
+Target Class Score,37.72%,test_3_1 seconds_15fps,Pt,yolo11n-seg
+Processing FPS,30.59 fps,test_3_1 seconds_15fps,Pt,yolo11n-seg
+Total time,0.35 sec,test_3_1 seconds_15fps,TensorRT,yolov8n-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,TensorRT,yolov8n-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,TensorRT,yolov8n-seg
+Average Frame Processing Time,0.0235 sec,test_3_1 seconds_15fps,TensorRT,yolov8n-seg
+Target Class Score,36.54%,test_3_1 seconds_15fps,TensorRT,yolov8n-seg
+Processing FPS,42.58 fps,test_3_1 seconds_15fps,TensorRT,yolov8n-seg
+Total time,0.77 sec,test_3_1 seconds_15fps,TensorRT,yolo11m-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,TensorRT,yolo11m-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,TensorRT,yolo11m-seg
+Average Frame Processing Time,0.0516 sec,test_3_1 seconds_15fps,TensorRT,yolo11m-seg
+Target Class Score,52.43%,test_3_1 seconds_15fps,TensorRT,yolo11m-seg
+Processing FPS,19.40 fps,test_3_1 seconds_15fps,TensorRT,yolo11m-seg
+Total time,0.69 sec,test_3_1 seconds_15fps,TensorRT,yolov8m-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,TensorRT,yolov8m-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,TensorRT,yolov8m-seg
+Average Frame Processing Time,0.0457 sec,test_3_1 seconds_15fps,TensorRT,yolov8m-seg
+Target Class Score,51.82%,test_3_1 seconds_15fps,TensorRT,yolov8m-seg
+Processing FPS,21.89 fps,test_3_1 seconds_15fps,TensorRT,yolov8m-seg
+Total time,0.48 sec,test_3_1 seconds_15fps,TensorRT,yolo11s-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,TensorRT,yolo11s-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,TensorRT,yolo11s-seg
+Average Frame Processing Time,0.0319 sec,test_3_1 seconds_15fps,TensorRT,yolo11s-seg
+Target Class Score,47.18%,test_3_1 seconds_15fps,TensorRT,yolo11s-seg
+Processing FPS,31.39 fps,test_3_1 seconds_15fps,TensorRT,yolo11s-seg
+Total time,0.44 sec,test_3_1 seconds_15fps,TensorRT,yolov8s-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,TensorRT,yolov8s-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,TensorRT,yolov8s-seg
+Average Frame Processing Time,0.0296 sec,test_3_1 seconds_15fps,TensorRT,yolov8s-seg
+Target Class Score,47.31%,test_3_1 seconds_15fps,TensorRT,yolov8s-seg
+Processing FPS,33.83 fps,test_3_1 seconds_15fps,TensorRT,yolov8s-seg
+Total time,0.40 sec,test_3_1 seconds_15fps,TensorRT,yolo11n-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,TensorRT,yolo11n-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,TensorRT,yolo11n-seg
+Average Frame Processing Time,0.0268 sec,test_3_1 seconds_15fps,TensorRT,yolo11n-seg
+Target Class Score,39.23%,test_3_1 seconds_15fps,TensorRT,yolo11n-seg
+Processing FPS,37.29 fps,test_3_1 seconds_15fps,TensorRT,yolo11n-seg
+Total time,1.46 sec,test_3_1 seconds_15fps,onnx,yolov8n-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,onnx,yolov8n-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,onnx,yolov8n-seg
+Average Frame Processing Time,0.0976 sec,test_3_1 seconds_15fps,onnx,yolov8n-seg
+Target Class Score,36.46%,test_3_1 seconds_15fps,onnx,yolov8n-seg
+Processing FPS,10.25 fps,test_3_1 seconds_15fps,onnx,yolov8n-seg
+Total time,5.03 sec,test_3_1 seconds_15fps,onnx,yolo11m-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,onnx,yolo11m-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,onnx,yolo11m-seg
+Average Frame Processing Time,0.3352 sec,test_3_1 seconds_15fps,onnx,yolo11m-seg
+Target Class Score,52.61%,test_3_1 seconds_15fps,onnx,yolo11m-seg
+Processing FPS,2.98 fps,test_3_1 seconds_15fps,onnx,yolo11m-seg
+Total time,3.88 sec,test_3_1 seconds_15fps,onnx,yolov8m-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,onnx,yolov8m-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,onnx,yolov8m-seg
+Average Frame Processing Time,0.2590 sec,test_3_1 seconds_15fps,onnx,yolov8m-seg
+Target Class Score,51.93%,test_3_1 seconds_15fps,onnx,yolov8m-seg
+Processing FPS,3.86 fps,test_3_1 seconds_15fps,onnx,yolov8m-seg
+Total time,2.73 sec,test_3_1 seconds_15fps,onnx,yolo11s-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,onnx,yolo11s-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,onnx,yolo11s-seg
+Average Frame Processing Time,0.1818 sec,test_3_1 seconds_15fps,onnx,yolo11s-seg
+Target Class Score,47.21%,test_3_1 seconds_15fps,onnx,yolo11s-seg
+Processing FPS,5.50 fps,test_3_1 seconds_15fps,onnx,yolo11s-seg
+Total time,3.85 sec,test_3_1 seconds_15fps,onnx,yolov8s-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,onnx,yolov8s-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,onnx,yolov8s-seg
+Average Frame Processing Time,0.2564 sec,test_3_1 seconds_15fps,onnx,yolov8s-seg
+Target Class Score,47.34%,test_3_1 seconds_15fps,onnx,yolov8s-seg
+Processing FPS,3.90 fps,test_3_1 seconds_15fps,onnx,yolov8s-seg
+Total time,1.69 sec,test_3_1 seconds_15fps,onnx,yolo11n-seg
+Video FPS,15 fps,test_3_1 seconds_15fps,onnx,yolo11n-seg
+Video Duration,1.00 sec,test_3_1 seconds_15fps,onnx,yolo11n-seg
+Average Frame Processing Time,0.1129 sec,test_3_1 seconds_15fps,onnx,yolo11n-seg
+Target Class Score,39.08%,test_3_1 seconds_15fps,onnx,yolo11n-seg
+Processing FPS,8.86 fps,test_3_1 seconds_15fps,onnx,yolo11n-seg
+Total time,4.05 sec,test_4_10 seconds_15fps,Pt,yolov8n-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,Pt,yolov8n-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,Pt,yolov8n-seg
+Average Frame Processing Time,0.0268 sec,test_4_10 seconds_15fps,Pt,yolov8n-seg
+Target Class Score,0.00%,test_4_10 seconds_15fps,Pt,yolov8n-seg
+Processing FPS,37.26 fps,test_4_10 seconds_15fps,Pt,yolov8n-seg
+Total time,7.69 sec,test_4_10 seconds_15fps,Pt,yolo11m-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,Pt,yolo11m-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,Pt,yolo11m-seg
+Average Frame Processing Time,0.0509 sec,test_4_10 seconds_15fps,Pt,yolo11m-seg
+Target Class Score,0.57%,test_4_10 seconds_15fps,Pt,yolo11m-seg
+Processing FPS,19.64 fps,test_4_10 seconds_15fps,Pt,yolo11m-seg
+Total time,7.32 sec,test_4_10 seconds_15fps,Pt,yolov8m-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,Pt,yolov8m-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,Pt,yolov8m-seg
+Average Frame Processing Time,0.0485 sec,test_4_10 seconds_15fps,Pt,yolov8m-seg
+Target Class Score,0.39%,test_4_10 seconds_15fps,Pt,yolov8m-seg
+Processing FPS,20.62 fps,test_4_10 seconds_15fps,Pt,yolov8m-seg
+Total time,4.87 sec,test_4_10 seconds_15fps,Pt,yolo11s-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,Pt,yolo11s-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,Pt,yolo11s-seg
+Average Frame Processing Time,0.0323 sec,test_4_10 seconds_15fps,Pt,yolo11s-seg
+Target Class Score,0.00%,test_4_10 seconds_15fps,Pt,yolo11s-seg
+Processing FPS,30.98 fps,test_4_10 seconds_15fps,Pt,yolo11s-seg
+Total time,4.89 sec,test_4_10 seconds_15fps,Pt,yolov8s-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,Pt,yolov8s-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,Pt,yolov8s-seg
+Average Frame Processing Time,0.0324 sec,test_4_10 seconds_15fps,Pt,yolov8s-seg
+Target Class Score,0.00%,test_4_10 seconds_15fps,Pt,yolov8s-seg
+Processing FPS,30.85 fps,test_4_10 seconds_15fps,Pt,yolov8s-seg
+Total time,4.33 sec,test_4_10 seconds_15fps,Pt,yolo11n-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,Pt,yolo11n-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,Pt,yolo11n-seg
+Average Frame Processing Time,0.0287 sec,test_4_10 seconds_15fps,Pt,yolo11n-seg
+Target Class Score,0.00%,test_4_10 seconds_15fps,Pt,yolo11n-seg
+Processing FPS,34.89 fps,test_4_10 seconds_15fps,Pt,yolo11n-seg
+Total time,3.72 sec,test_4_10 seconds_15fps,TensorRT,yolov8n-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,TensorRT,yolov8n-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,TensorRT,yolov8n-seg
+Average Frame Processing Time,0.0246 sec,test_4_10 seconds_15fps,TensorRT,yolov8n-seg
+Target Class Score,0.00%,test_4_10 seconds_15fps,TensorRT,yolov8n-seg
+Processing FPS,40.60 fps,test_4_10 seconds_15fps,TensorRT,yolov8n-seg
+Total time,6.26 sec,test_4_10 seconds_15fps,TensorRT,yolo11m-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,TensorRT,yolo11m-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,TensorRT,yolo11m-seg
+Average Frame Processing Time,0.0414 sec,test_4_10 seconds_15fps,TensorRT,yolo11m-seg
+Target Class Score,0.79%,test_4_10 seconds_15fps,TensorRT,yolo11m-seg
+Processing FPS,24.13 fps,test_4_10 seconds_15fps,TensorRT,yolo11m-seg
+Total time,5.87 sec,test_4_10 seconds_15fps,TensorRT,yolov8m-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,TensorRT,yolov8m-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,TensorRT,yolov8m-seg
+Average Frame Processing Time,0.0389 sec,test_4_10 seconds_15fps,TensorRT,yolov8m-seg
+Target Class Score,0.39%,test_4_10 seconds_15fps,TensorRT,yolov8m-seg
+Processing FPS,25.74 fps,test_4_10 seconds_15fps,TensorRT,yolov8m-seg
+Total time,4.55 sec,test_4_10 seconds_15fps,TensorRT,yolo11s-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,TensorRT,yolo11s-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,TensorRT,yolo11s-seg
+Average Frame Processing Time,0.0302 sec,test_4_10 seconds_15fps,TensorRT,yolo11s-seg
+Target Class Score,0.00%,test_4_10 seconds_15fps,TensorRT,yolo11s-seg
+Processing FPS,33.15 fps,test_4_10 seconds_15fps,TensorRT,yolo11s-seg
+Total time,4.63 sec,test_4_10 seconds_15fps,TensorRT,yolov8s-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,TensorRT,yolov8s-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,TensorRT,yolov8s-seg
+Average Frame Processing Time,0.0307 sec,test_4_10 seconds_15fps,TensorRT,yolov8s-seg
+Target Class Score,0.00%,test_4_10 seconds_15fps,TensorRT,yolov8s-seg
+Processing FPS,32.59 fps,test_4_10 seconds_15fps,TensorRT,yolov8s-seg
+Total time,3.66 sec,test_4_10 seconds_15fps,TensorRT,yolo11n-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,TensorRT,yolo11n-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,TensorRT,yolo11n-seg
+Average Frame Processing Time,0.0243 sec,test_4_10 seconds_15fps,TensorRT,yolo11n-seg
+Target Class Score,0.00%,test_4_10 seconds_15fps,TensorRT,yolo11n-seg
+Processing FPS,41.21 fps,test_4_10 seconds_15fps,TensorRT,yolo11n-seg
+Total time,5.91 sec,test_4_10 seconds_15fps,onnx,yolov8n-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,onnx,yolov8n-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,onnx,yolov8n-seg
+Average Frame Processing Time,0.0392 sec,test_4_10 seconds_15fps,onnx,yolov8n-seg
+Target Class Score,0.00%,test_4_10 seconds_15fps,onnx,yolov8n-seg
+Processing FPS,25.54 fps,test_4_10 seconds_15fps,onnx,yolov8n-seg
+Total time,15.24 sec,test_4_10 seconds_15fps,onnx,yolo11m-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,onnx,yolo11m-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,onnx,yolo11m-seg
+Average Frame Processing Time,0.1009 sec,test_4_10 seconds_15fps,onnx,yolo11m-seg
+Target Class Score,0.78%,test_4_10 seconds_15fps,onnx,yolo11m-seg
+Processing FPS,9.91 fps,test_4_10 seconds_15fps,onnx,yolo11m-seg
+Total time,13.22 sec,test_4_10 seconds_15fps,onnx,yolov8m-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,onnx,yolov8m-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,onnx,yolov8m-seg
+Average Frame Processing Time,0.0876 sec,test_4_10 seconds_15fps,onnx,yolov8m-seg
+Target Class Score,0.39%,test_4_10 seconds_15fps,onnx,yolov8m-seg
+Processing FPS,11.42 fps,test_4_10 seconds_15fps,onnx,yolov8m-seg
+Total time,9.23 sec,test_4_10 seconds_15fps,onnx,yolo11s-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,onnx,yolo11s-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,onnx,yolo11s-seg
+Average Frame Processing Time,0.0611 sec,test_4_10 seconds_15fps,onnx,yolo11s-seg
+Target Class Score,0.00%,test_4_10 seconds_15fps,onnx,yolo11s-seg
+Processing FPS,16.36 fps,test_4_10 seconds_15fps,onnx,yolo11s-seg
+Total time,9.90 sec,test_4_10 seconds_15fps,onnx,yolov8s-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,onnx,yolov8s-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,onnx,yolov8s-seg
+Average Frame Processing Time,0.0655 sec,test_4_10 seconds_15fps,onnx,yolov8s-seg
+Target Class Score,0.00%,test_4_10 seconds_15fps,onnx,yolov8s-seg
+Processing FPS,15.26 fps,test_4_10 seconds_15fps,onnx,yolov8s-seg
+Total time,6.23 sec,test_4_10 seconds_15fps,onnx,yolo11n-seg
+Video FPS,15 fps,test_4_10 seconds_15fps,onnx,yolo11n-seg
+Video Duration,10.07 sec,test_4_10 seconds_15fps,onnx,yolo11n-seg
+Average Frame Processing Time,0.0413 sec,test_4_10 seconds_15fps,onnx,yolo11n-seg
+Target Class Score,0.00%,test_4_10 seconds_15fps,onnx,yolo11n-seg
+Processing FPS,24.22 fps,test_4_10 seconds_15fps,onnx,yolo11n-seg
+Total time,0.90 sec,test_0_1 seconds_30fps,Pt,yolov8n-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,Pt,yolov8n-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,Pt,yolov8n-seg
+Average Frame Processing Time,0.0298 sec,test_0_1 seconds_30fps,Pt,yolov8n-seg
+Target Class Score,36.07%,test_0_1 seconds_30fps,Pt,yolov8n-seg
+Processing FPS,33.51 fps,test_0_1 seconds_30fps,Pt,yolov8n-seg
+Total time,1.77 sec,test_0_1 seconds_30fps,Pt,yolo11m-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,Pt,yolo11m-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,Pt,yolo11m-seg
+Average Frame Processing Time,0.0591 sec,test_0_1 seconds_30fps,Pt,yolo11m-seg
+Target Class Score,51.16%,test_0_1 seconds_30fps,Pt,yolo11m-seg
+Processing FPS,16.91 fps,test_0_1 seconds_30fps,Pt,yolo11m-seg
+Total time,1.74 sec,test_0_1 seconds_30fps,Pt,yolov8m-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,Pt,yolov8m-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,Pt,yolov8m-seg
+Average Frame Processing Time,0.0579 sec,test_0_1 seconds_30fps,Pt,yolov8m-seg
+Target Class Score,50.18%,test_0_1 seconds_30fps,Pt,yolov8m-seg
+Processing FPS,17.26 fps,test_0_1 seconds_30fps,Pt,yolov8m-seg
+Total time,1.19 sec,test_0_1 seconds_30fps,Pt,yolo11s-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,Pt,yolo11s-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,Pt,yolo11s-seg
+Average Frame Processing Time,0.0397 sec,test_0_1 seconds_30fps,Pt,yolo11s-seg
+Target Class Score,47.02%,test_0_1 seconds_30fps,Pt,yolo11s-seg
+Processing FPS,25.21 fps,test_0_1 seconds_30fps,Pt,yolo11s-seg
+Total time,1.11 sec,test_0_1 seconds_30fps,Pt,yolov8s-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,Pt,yolov8s-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,Pt,yolov8s-seg
+Average Frame Processing Time,0.0371 sec,test_0_1 seconds_30fps,Pt,yolov8s-seg
+Target Class Score,47.06%,test_0_1 seconds_30fps,Pt,yolov8s-seg
+Processing FPS,26.93 fps,test_0_1 seconds_30fps,Pt,yolov8s-seg
+Total time,0.99 sec,test_0_1 seconds_30fps,Pt,yolo11n-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,Pt,yolo11n-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,Pt,yolo11n-seg
+Average Frame Processing Time,0.0329 sec,test_0_1 seconds_30fps,Pt,yolo11n-seg
+Target Class Score,37.44%,test_0_1 seconds_30fps,Pt,yolo11n-seg
+Processing FPS,30.38 fps,test_0_1 seconds_30fps,Pt,yolo11n-seg
+Total time,0.85 sec,test_0_1 seconds_30fps,TensorRT,yolov8n-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,TensorRT,yolov8n-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,TensorRT,yolov8n-seg
+Average Frame Processing Time,0.0285 sec,test_0_1 seconds_30fps,TensorRT,yolov8n-seg
+Target Class Score,36.70%,test_0_1 seconds_30fps,TensorRT,yolov8n-seg
+Processing FPS,35.12 fps,test_0_1 seconds_30fps,TensorRT,yolov8n-seg
+Total time,1.46 sec,test_0_1 seconds_30fps,TensorRT,yolo11m-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,TensorRT,yolo11m-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,TensorRT,yolo11m-seg
+Average Frame Processing Time,0.0487 sec,test_0_1 seconds_30fps,TensorRT,yolo11m-seg
+Target Class Score,53.44%,test_0_1 seconds_30fps,TensorRT,yolo11m-seg
+Processing FPS,20.52 fps,test_0_1 seconds_30fps,TensorRT,yolo11m-seg
+Total time,1.39 sec,test_0_1 seconds_30fps,TensorRT,yolov8m-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,TensorRT,yolov8m-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,TensorRT,yolov8m-seg
+Average Frame Processing Time,0.0465 sec,test_0_1 seconds_30fps,TensorRT,yolov8m-seg
+Target Class Score,51.61%,test_0_1 seconds_30fps,TensorRT,yolov8m-seg
+Processing FPS,21.52 fps,test_0_1 seconds_30fps,TensorRT,yolov8m-seg
+Total time,0.99 sec,test_0_1 seconds_30fps,TensorRT,yolo11s-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,TensorRT,yolo11s-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,TensorRT,yolo11s-seg
+Average Frame Processing Time,0.0329 sec,test_0_1 seconds_30fps,TensorRT,yolo11s-seg
+Target Class Score,47.96%,test_0_1 seconds_30fps,TensorRT,yolo11s-seg
+Processing FPS,30.38 fps,test_0_1 seconds_30fps,TensorRT,yolo11s-seg
+Total time,1.01 sec,test_0_1 seconds_30fps,TensorRT,yolov8s-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,TensorRT,yolov8s-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,TensorRT,yolov8s-seg
+Average Frame Processing Time,0.0335 sec,test_0_1 seconds_30fps,TensorRT,yolov8s-seg
+Target Class Score,47.42%,test_0_1 seconds_30fps,TensorRT,yolov8s-seg
+Processing FPS,29.81 fps,test_0_1 seconds_30fps,TensorRT,yolov8s-seg
+Total time,0.81 sec,test_0_1 seconds_30fps,TensorRT,yolo11n-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,TensorRT,yolo11n-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,TensorRT,yolo11n-seg
+Average Frame Processing Time,0.0270 sec,test_0_1 seconds_30fps,TensorRT,yolo11n-seg
+Target Class Score,38.53%,test_0_1 seconds_30fps,TensorRT,yolo11n-seg
+Processing FPS,37.01 fps,test_0_1 seconds_30fps,TensorRT,yolo11n-seg
+Total time,2.06 sec,test_0_1 seconds_30fps,onnx,yolov8n-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,onnx,yolov8n-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,onnx,yolov8n-seg
+Average Frame Processing Time,0.0686 sec,test_0_1 seconds_30fps,onnx,yolov8n-seg
+Target Class Score,36.60%,test_0_1 seconds_30fps,onnx,yolov8n-seg
+Processing FPS,14.59 fps,test_0_1 seconds_30fps,onnx,yolov8n-seg
+Total time,6.19 sec,test_0_1 seconds_30fps,onnx,yolo11m-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,onnx,yolo11m-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,onnx,yolo11m-seg
+Average Frame Processing Time,0.2063 sec,test_0_1 seconds_30fps,onnx,yolo11m-seg
+Target Class Score,53.49%,test_0_1 seconds_30fps,onnx,yolo11m-seg
+Processing FPS,4.85 fps,test_0_1 seconds_30fps,onnx,yolo11m-seg
+Total time,5.03 sec,test_0_1 seconds_30fps,onnx,yolov8m-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,onnx,yolov8m-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,onnx,yolov8m-seg
+Average Frame Processing Time,0.1677 sec,test_0_1 seconds_30fps,onnx,yolov8m-seg
+Target Class Score,51.62%,test_0_1 seconds_30fps,onnx,yolov8m-seg
+Processing FPS,5.96 fps,test_0_1 seconds_30fps,onnx,yolov8m-seg
+Total time,3.49 sec,test_0_1 seconds_30fps,onnx,yolo11s-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,onnx,yolo11s-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,onnx,yolo11s-seg
+Average Frame Processing Time,0.1164 sec,test_0_1 seconds_30fps,onnx,yolo11s-seg
+Target Class Score,48.15%,test_0_1 seconds_30fps,onnx,yolo11s-seg
+Processing FPS,8.59 fps,test_0_1 seconds_30fps,onnx,yolo11s-seg
+Total time,4.70 sec,test_0_1 seconds_30fps,onnx,yolov8s-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,onnx,yolov8s-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,onnx,yolov8s-seg
+Average Frame Processing Time,0.1567 sec,test_0_1 seconds_30fps,onnx,yolov8s-seg
+Target Class Score,47.19%,test_0_1 seconds_30fps,onnx,yolov8s-seg
+Processing FPS,6.38 fps,test_0_1 seconds_30fps,onnx,yolov8s-seg
+Total time,2.23 sec,test_0_1 seconds_30fps,onnx,yolo11n-seg
+Video FPS,30 fps,test_0_1 seconds_30fps,onnx,yolo11n-seg
+Video Duration,1.00 sec,test_0_1 seconds_30fps,onnx,yolo11n-seg
+Average Frame Processing Time,0.0744 sec,test_0_1 seconds_30fps,onnx,yolo11n-seg
+Target Class Score,38.45%,test_0_1 seconds_30fps,onnx,yolo11n-seg
+Processing FPS,13.44 fps,test_0_1 seconds_30fps,onnx,yolo11n-seg
+Total time,1.71 sec,test_5_2 seconds_30fps,Pt,yolov8n-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,Pt,yolov8n-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,Pt,yolov8n-seg
+Average Frame Processing Time,0.0280 sec,test_5_2 seconds_30fps,Pt,yolov8n-seg
+Target Class Score,0.00%,test_5_2 seconds_30fps,Pt,yolov8n-seg
+Processing FPS,35.65 fps,test_5_2 seconds_30fps,Pt,yolov8n-seg
+Total time,3.31 sec,test_5_2 seconds_30fps,Pt,yolo11m-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,Pt,yolo11m-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,Pt,yolo11m-seg
+Average Frame Processing Time,0.0543 sec,test_5_2 seconds_30fps,Pt,yolo11m-seg
+Target Class Score,2.30%,test_5_2 seconds_30fps,Pt,yolo11m-seg
+Processing FPS,18.43 fps,test_5_2 seconds_30fps,Pt,yolo11m-seg
+Total time,3.14 sec,test_5_2 seconds_30fps,Pt,yolov8m-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,Pt,yolov8m-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,Pt,yolov8m-seg
+Average Frame Processing Time,0.0514 sec,test_5_2 seconds_30fps,Pt,yolov8m-seg
+Target Class Score,6.02%,test_5_2 seconds_30fps,Pt,yolov8m-seg
+Processing FPS,19.45 fps,test_5_2 seconds_30fps,Pt,yolov8m-seg
+Total time,2.14 sec,test_5_2 seconds_30fps,Pt,yolo11s-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,Pt,yolo11s-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,Pt,yolo11s-seg
+Average Frame Processing Time,0.0351 sec,test_5_2 seconds_30fps,Pt,yolo11s-seg
+Target Class Score,0.00%,test_5_2 seconds_30fps,Pt,yolo11s-seg
+Processing FPS,28.48 fps,test_5_2 seconds_30fps,Pt,yolo11s-seg
+Total time,2.10 sec,test_5_2 seconds_30fps,Pt,yolov8s-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,Pt,yolov8s-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,Pt,yolov8s-seg
+Average Frame Processing Time,0.0344 sec,test_5_2 seconds_30fps,Pt,yolov8s-seg
+Target Class Score,0.00%,test_5_2 seconds_30fps,Pt,yolov8s-seg
+Processing FPS,29.09 fps,test_5_2 seconds_30fps,Pt,yolov8s-seg
+Total time,1.84 sec,test_5_2 seconds_30fps,Pt,yolo11n-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,Pt,yolo11n-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,Pt,yolo11n-seg
+Average Frame Processing Time,0.0302 sec,test_5_2 seconds_30fps,Pt,yolo11n-seg
+Target Class Score,0.00%,test_5_2 seconds_30fps,Pt,yolo11n-seg
+Processing FPS,33.11 fps,test_5_2 seconds_30fps,Pt,yolo11n-seg
+Total time,1.43 sec,test_5_2 seconds_30fps,TensorRT,yolov8n-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,TensorRT,yolov8n-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,TensorRT,yolov8n-seg
+Average Frame Processing Time,0.0234 sec,test_5_2 seconds_30fps,TensorRT,yolov8n-seg
+Target Class Score,0.00%,test_5_2 seconds_30fps,TensorRT,yolov8n-seg
+Processing FPS,42.76 fps,test_5_2 seconds_30fps,TensorRT,yolov8n-seg
+Total time,2.69 sec,test_5_2 seconds_30fps,TensorRT,yolo11m-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,TensorRT,yolo11m-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,TensorRT,yolo11m-seg
+Average Frame Processing Time,0.0441 sec,test_5_2 seconds_30fps,TensorRT,yolo11m-seg
+Target Class Score,3.02%,test_5_2 seconds_30fps,TensorRT,yolo11m-seg
+Processing FPS,22.66 fps,test_5_2 seconds_30fps,TensorRT,yolo11m-seg
+Total time,2.46 sec,test_5_2 seconds_30fps,TensorRT,yolov8m-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,TensorRT,yolov8m-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,TensorRT,yolov8m-seg
+Average Frame Processing Time,0.0403 sec,test_5_2 seconds_30fps,TensorRT,yolov8m-seg
+Target Class Score,6.11%,test_5_2 seconds_30fps,TensorRT,yolov8m-seg
+Processing FPS,24.78 fps,test_5_2 seconds_30fps,TensorRT,yolov8m-seg
+Total time,1.93 sec,test_5_2 seconds_30fps,TensorRT,yolo11s-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,TensorRT,yolo11s-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,TensorRT,yolo11s-seg
+Average Frame Processing Time,0.0316 sec,test_5_2 seconds_30fps,TensorRT,yolo11s-seg
+Target Class Score,0.00%,test_5_2 seconds_30fps,TensorRT,yolo11s-seg
+Processing FPS,31.61 fps,test_5_2 seconds_30fps,TensorRT,yolo11s-seg
+Total time,1.93 sec,test_5_2 seconds_30fps,TensorRT,yolov8s-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,TensorRT,yolov8s-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,TensorRT,yolov8s-seg
+Average Frame Processing Time,0.0317 sec,test_5_2 seconds_30fps,TensorRT,yolov8s-seg
+Target Class Score,0.00%,test_5_2 seconds_30fps,TensorRT,yolov8s-seg
+Processing FPS,31.55 fps,test_5_2 seconds_30fps,TensorRT,yolov8s-seg
+Total time,1.54 sec,test_5_2 seconds_30fps,TensorRT,yolo11n-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,TensorRT,yolo11n-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,TensorRT,yolo11n-seg
+Average Frame Processing Time,0.0253 sec,test_5_2 seconds_30fps,TensorRT,yolo11n-seg
+Target Class Score,0.00%,test_5_2 seconds_30fps,TensorRT,yolo11n-seg
+Processing FPS,39.54 fps,test_5_2 seconds_30fps,TensorRT,yolo11n-seg
+Total time,2.99 sec,test_5_2 seconds_30fps,onnx,yolov8n-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,onnx,yolov8n-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,onnx,yolov8n-seg
+Average Frame Processing Time,0.0490 sec,test_5_2 seconds_30fps,onnx,yolov8n-seg
+Target Class Score,0.00%,test_5_2 seconds_30fps,onnx,yolov8n-seg
+Processing FPS,20.41 fps,test_5_2 seconds_30fps,onnx,yolov8n-seg
+Total time,8.56 sec,test_5_2 seconds_30fps,onnx,yolo11m-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,onnx,yolo11m-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,onnx,yolo11m-seg
+Average Frame Processing Time,0.1403 sec,test_5_2 seconds_30fps,onnx,yolo11m-seg
+Target Class Score,3.05%,test_5_2 seconds_30fps,onnx,yolo11m-seg
+Processing FPS,7.13 fps,test_5_2 seconds_30fps,onnx,yolo11m-seg
+Total time,7.04 sec,test_5_2 seconds_30fps,onnx,yolov8m-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,onnx,yolov8m-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,onnx,yolov8m-seg
+Average Frame Processing Time,0.1154 sec,test_5_2 seconds_30fps,onnx,yolov8m-seg
+Target Class Score,6.12%,test_5_2 seconds_30fps,onnx,yolov8m-seg
+Processing FPS,8.67 fps,test_5_2 seconds_30fps,onnx,yolov8m-seg
+Total time,5.28 sec,test_5_2 seconds_30fps,onnx,yolo11s-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,onnx,yolo11s-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,onnx,yolo11s-seg
+Average Frame Processing Time,0.0866 sec,test_5_2 seconds_30fps,onnx,yolo11s-seg
+Target Class Score,0.00%,test_5_2 seconds_30fps,onnx,yolo11s-seg
+Processing FPS,11.55 fps,test_5_2 seconds_30fps,onnx,yolo11s-seg
+Total time,6.14 sec,test_5_2 seconds_30fps,onnx,yolov8s-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,onnx,yolov8s-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,onnx,yolov8s-seg
+Average Frame Processing Time,0.1007 sec,test_5_2 seconds_30fps,onnx,yolov8s-seg
+Target Class Score,0.00%,test_5_2 seconds_30fps,onnx,yolov8s-seg
+Processing FPS,9.93 fps,test_5_2 seconds_30fps,onnx,yolov8s-seg
+Total time,3.31 sec,test_5_2 seconds_30fps,onnx,yolo11n-seg
+Video FPS,30 fps,test_5_2 seconds_30fps,onnx,yolo11n-seg
+Video Duration,2.03 sec,test_5_2 seconds_30fps,onnx,yolo11n-seg
+Average Frame Processing Time,0.0543 sec,test_5_2 seconds_30fps,onnx,yolo11n-seg
+Target Class Score,0.00%,test_5_2 seconds_30fps,onnx,yolo11n-seg
+Processing FPS,18.42 fps,test_5_2 seconds_30fps,onnx,yolo11n-seg
+Total time,8.00 sec,test_1_10 seconds_30fps,Pt,yolov8n-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,Pt,yolov8n-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,Pt,yolov8n-seg
+Average Frame Processing Time,0.0267 sec,test_1_10 seconds_30fps,Pt,yolov8n-seg
+Target Class Score,0.00%,test_1_10 seconds_30fps,Pt,yolov8n-seg
+Processing FPS,37.49 fps,test_1_10 seconds_30fps,Pt,yolov8n-seg
+Total time,14.71 sec,test_1_10 seconds_30fps,Pt,yolo11m-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,Pt,yolo11m-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,Pt,yolo11m-seg
+Average Frame Processing Time,0.0490 sec,test_1_10 seconds_30fps,Pt,yolo11m-seg
+Target Class Score,0.26%,test_1_10 seconds_30fps,Pt,yolo11m-seg
+Processing FPS,20.40 fps,test_1_10 seconds_30fps,Pt,yolo11m-seg
+Total time,14.04 sec,test_1_10 seconds_30fps,Pt,yolov8m-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,Pt,yolov8m-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,Pt,yolov8m-seg
+Average Frame Processing Time,0.0468 sec,test_1_10 seconds_30fps,Pt,yolov8m-seg
+Target Class Score,0.30%,test_1_10 seconds_30fps,Pt,yolov8m-seg
+Processing FPS,21.37 fps,test_1_10 seconds_30fps,Pt,yolov8m-seg
+Total time,9.40 sec,test_1_10 seconds_30fps,Pt,yolo11s-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,Pt,yolo11s-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,Pt,yolo11s-seg
+Average Frame Processing Time,0.0313 sec,test_1_10 seconds_30fps,Pt,yolo11s-seg
+Target Class Score,0.00%,test_1_10 seconds_30fps,Pt,yolo11s-seg
+Processing FPS,31.93 fps,test_1_10 seconds_30fps,Pt,yolo11s-seg
+Total time,9.45 sec,test_1_10 seconds_30fps,Pt,yolov8s-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,Pt,yolov8s-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,Pt,yolov8s-seg
+Average Frame Processing Time,0.0315 sec,test_1_10 seconds_30fps,Pt,yolov8s-seg
+Target Class Score,0.00%,test_1_10 seconds_30fps,Pt,yolov8s-seg
+Processing FPS,31.76 fps,test_1_10 seconds_30fps,Pt,yolov8s-seg
+Total time,8.38 sec,test_1_10 seconds_30fps,Pt,yolo11n-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,Pt,yolo11n-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,Pt,yolo11n-seg
+Average Frame Processing Time,0.0279 sec,test_1_10 seconds_30fps,Pt,yolo11n-seg
+Target Class Score,0.00%,test_1_10 seconds_30fps,Pt,yolo11n-seg
+Processing FPS,35.81 fps,test_1_10 seconds_30fps,Pt,yolo11n-seg
+Total time,7.40 sec,test_1_10 seconds_30fps,TensorRT,yolov8n-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,TensorRT,yolov8n-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,TensorRT,yolov8n-seg
+Average Frame Processing Time,0.0247 sec,test_1_10 seconds_30fps,TensorRT,yolov8n-seg
+Target Class Score,0.00%,test_1_10 seconds_30fps,TensorRT,yolov8n-seg
+Processing FPS,40.53 fps,test_1_10 seconds_30fps,TensorRT,yolov8n-seg
+Total time,12.18 sec,test_1_10 seconds_30fps,TensorRT,yolo11m-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,TensorRT,yolo11m-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,TensorRT,yolo11m-seg
+Average Frame Processing Time,0.0406 sec,test_1_10 seconds_30fps,TensorRT,yolo11m-seg
+Target Class Score,0.45%,test_1_10 seconds_30fps,TensorRT,yolo11m-seg
+Processing FPS,24.64 fps,test_1_10 seconds_30fps,TensorRT,yolo11m-seg
+Total time,11.60 sec,test_1_10 seconds_30fps,TensorRT,yolov8m-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,TensorRT,yolov8m-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,TensorRT,yolov8m-seg
+Average Frame Processing Time,0.0387 sec,test_1_10 seconds_30fps,TensorRT,yolov8m-seg
+Target Class Score,0.29%,test_1_10 seconds_30fps,TensorRT,yolov8m-seg
+Processing FPS,25.86 fps,test_1_10 seconds_30fps,TensorRT,yolov8m-seg
+Total time,8.79 sec,test_1_10 seconds_30fps,TensorRT,yolo11s-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,TensorRT,yolo11s-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,TensorRT,yolo11s-seg
+Average Frame Processing Time,0.0293 sec,test_1_10 seconds_30fps,TensorRT,yolo11s-seg
+Target Class Score,0.00%,test_1_10 seconds_30fps,TensorRT,yolo11s-seg
+Processing FPS,34.11 fps,test_1_10 seconds_30fps,TensorRT,yolo11s-seg
+Total time,9.01 sec,test_1_10 seconds_30fps,TensorRT,yolov8s-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,TensorRT,yolov8s-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,TensorRT,yolov8s-seg
+Average Frame Processing Time,0.0300 sec,test_1_10 seconds_30fps,TensorRT,yolov8s-seg
+Target Class Score,0.00%,test_1_10 seconds_30fps,TensorRT,yolov8s-seg
+Processing FPS,33.31 fps,test_1_10 seconds_30fps,TensorRT,yolov8s-seg
+Total time,7.19 sec,test_1_10 seconds_30fps,TensorRT,yolo11n-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,TensorRT,yolo11n-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,TensorRT,yolo11n-seg
+Average Frame Processing Time,0.0240 sec,test_1_10 seconds_30fps,TensorRT,yolo11n-seg
+Target Class Score,0.00%,test_1_10 seconds_30fps,TensorRT,yolo11n-seg
+Processing FPS,41.74 fps,test_1_10 seconds_30fps,TensorRT,yolo11n-seg
+Total time,11.23 sec,test_1_10 seconds_30fps,onnx,yolov8n-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,onnx,yolov8n-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,onnx,yolov8n-seg
+Average Frame Processing Time,0.0374 sec,test_1_10 seconds_30fps,onnx,yolov8n-seg
+Target Class Score,0.00%,test_1_10 seconds_30fps,onnx,yolov8n-seg
+Processing FPS,26.72 fps,test_1_10 seconds_30fps,onnx,yolov8n-seg
+Total time,26.75 sec,test_1_10 seconds_30fps,onnx,yolo11m-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,onnx,yolo11m-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,onnx,yolo11m-seg
+Average Frame Processing Time,0.0892 sec,test_1_10 seconds_30fps,onnx,yolo11m-seg
+Target Class Score,0.46%,test_1_10 seconds_30fps,onnx,yolo11m-seg
+Processing FPS,11.22 fps,test_1_10 seconds_30fps,onnx,yolo11m-seg
+Total time,23.45 sec,test_1_10 seconds_30fps,onnx,yolov8m-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,onnx,yolov8m-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,onnx,yolov8m-seg
+Average Frame Processing Time,0.0782 sec,test_1_10 seconds_30fps,onnx,yolov8m-seg
+Target Class Score,0.29%,test_1_10 seconds_30fps,onnx,yolov8m-seg
+Processing FPS,12.79 fps,test_1_10 seconds_30fps,onnx,yolov8m-seg
+Total time,15.75 sec,test_1_10 seconds_30fps,onnx,yolo11s-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,onnx,yolo11s-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,onnx,yolo11s-seg
+Average Frame Processing Time,0.0525 sec,test_1_10 seconds_30fps,onnx,yolo11s-seg
+Target Class Score,0.00%,test_1_10 seconds_30fps,onnx,yolo11s-seg
+Processing FPS,19.04 fps,test_1_10 seconds_30fps,onnx,yolo11s-seg
+Total time,16.54 sec,test_1_10 seconds_30fps,onnx,yolov8s-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,onnx,yolov8s-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,onnx,yolov8s-seg
+Average Frame Processing Time,0.0551 sec,test_1_10 seconds_30fps,onnx,yolov8s-seg
+Target Class Score,0.00%,test_1_10 seconds_30fps,onnx,yolov8s-seg
+Processing FPS,18.13 fps,test_1_10 seconds_30fps,onnx,yolov8s-seg
+Total time,11.25 sec,test_1_10 seconds_30fps,onnx,yolo11n-seg
+Video FPS,30 fps,test_1_10 seconds_30fps,onnx,yolo11n-seg
+Video Duration,10.00 sec,test_1_10 seconds_30fps,onnx,yolo11n-seg
+Average Frame Processing Time,0.0375 sec,test_1_10 seconds_30fps,onnx,yolo11n-seg
+Target Class Score,0.00%,test_1_10 seconds_30fps,onnx,yolo11n-seg
+Processing FPS,26.67 fps,test_1_10 seconds_30fps,onnx,yolo11n-seg
